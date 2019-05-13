@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <paths>
+    <path>
+      <input>E:\Workspace\Snail.ImageThumb\test\input</input>
+      <output>E:\Workspace\Snail.ImageThumb\test\savedir</output>
+      <size>320x0</size>
+    </path>
+    <path>
+      <input>E:\Workspace\Snail.ImageThumb\test\input2</input>
+      <output>E:\Workspace\Snail.ImageThumb\test\savedir2</output>
+      <size>120x240</size>
+    </path>
+  </paths>
+</config>
